@@ -4,7 +4,7 @@ TFEB.ORG Lisp hax
 
 |---------+-------------------------------------------|
 | source  | git:https://github.com/tfeb/tfeb-lisp-hax.git   |
-| commit  | {"messa  |
+| commit  | be368e2  |
 | systems | tfeb-lisp-hax |
 |---------+-------------------------------------------|
 
